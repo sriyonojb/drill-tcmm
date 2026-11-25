@@ -2,7 +2,7 @@
 
 Portal GitHub Pages untuk membuka Web App Apps Script yang sudah ada.
 
-**Target Apps Script:** https://script.google.com/macros/s/AKfycbzY1XIbnN-u71qYdEeozhUqG25SXsYMRQSckabDIW-SHcpEOm9M6y28yyf6Kt8Zx2IJ/exec
+**Target Apps Script:** https://script.google.com/macros/s/AKfycbxHlAUrqLwoCfGJGboUnJUWhkfsbcW6BvThlw42Q5X3Wezjh3Hfngjo4xqH-eAjHb6_/exec
 
 ## Cara terbitkan dari browser HP/iPad/komputer
 
